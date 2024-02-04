@@ -105,7 +105,7 @@ const caption =`
 
 await conn.sendMessage( m.chat, {
         video: {
-          url: 'https://telegra.ph/Dala-02-04'
+          url: 'https://firebasestorage.googleapis.com/v0/b/dalax-5339a.appspot.com/o/EDITZ%20BOY%20PRESENT%20INTRO%203%20%5BB2DF25C%5D.mp4?alt=media&token=1ecdb348-52e5-41f7-b1c4-a83dbbb82757'
         },
         caption: caption,
         gifPlayback: true,
