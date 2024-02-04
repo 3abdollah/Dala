@@ -105,7 +105,7 @@ const caption =`
 
 await conn.sendMessage( m.chat, {
         video: {
-          url: 'https://firebasestorage.googleapis.com/v0/b/dalax-5339a.appspot.com/o/EDITZ%20BOY%20PRESENT%20INTRO%203%20%5BB2DF25C%5D.mp4?alt=media&token=1ecdb348-52e5-41f7-b1c4-a83dbbb82757'
+          url: 'https://firebasestorage.googleapis.com/v0/b/dalax-5339a.appspot.com/o/EDITZ%20BOY%20PRESENT%20INTRO%203%20%5B1CFDE18%5D.gif?alt=media&token=1de24cd0-a2a1-4746-95b3-ffb4375044c7db348-52e5-41f7-b1c4-a83dbbb82757'
         },
         caption: caption,
         gifPlayback: true,
